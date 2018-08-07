@@ -1,3 +1,2 @@
 application:
-  environment: prod
-  
+  name: auth-server  

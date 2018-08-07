@@ -1,3 +1,2 @@
 application:
-  name: auth-server
   environment: dev
